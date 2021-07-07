@@ -1,0 +1,41 @@
+#img-conter{
+    background-color: #cea127;
+}
+#linea{
+    border-top: 1px solid black;
+    height: 1px;
+    width: 70%;
+    padding: 0;
+    margin: 0px auto 15px auto;
+}
+.linea{
+    border-top: 1px solid black;
+    height: 1px;
+    width: 50%;
+    padding: 0;
+    margin: 2px auto 2px auto;
+}
+#linea3{
+    border-top: 1px solid black;
+    height: 1px;
+    width: 40%;
+    padding: 0;
+    margin: 2px auto 2px auto;
+}
+.cotainer-olorc{
+    background-color: #cea127;
+}
+.center-si {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.migddol9{
+    padding: 10px;
+}
+.rounded{
+    margin-top: 10px;
+}
+.igm-alto{
+    width: 250px;
+    height: 150px;
+}
